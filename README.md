@@ -1,4 +1,4 @@
-# Hack Texter
+# About Me
 
-Welcome to my website's GitHub page.
+Welcome to Jennifer Corzo's website GitHub page.
 
