@@ -1,8 +1,9 @@
 body {
-	background: url(download-2.png);
+	/* background: url(download-2.png);
 	background-repeat: repeat;
 	background-size: cover;
-	background-position: center; 
+	background-position: center;  */ 
+	bgcolor= "red"; 
 }
 
 html {
